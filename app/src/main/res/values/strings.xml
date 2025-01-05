@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculette</string>
+    <string name="defaultDisplayParams">Entrer une valeur</string>
+    <string name="plus">plus</string>
+    <string name="moins">moins</string>
+    <string name="multiplié">multiplié</string>
+    <string name="divisé">divisé</string>
+    <string name="remiseAZero">remiseAZero</string>
+    <string name="calcul">=</string>
+    <string name="Quitter">Quitter</string>
+    <string name="résultat">résultat</string>
+    <string name="copyrights">Copyright Sall .MH</string>
+</resources>
